@@ -1,0 +1,61 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+article {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+header h1 {
+    font-size: 2.5em;
+    color: #C60C30;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background: #FFD700;
+    margin: 20px 0;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    font-size: 1.8em;
+    color: #0B3B75;
+    margin-bottom: 10px;
+}
+
+p {
+    line-height: 1.6;
+    margin: 10px 0;
+    font-size: 1em;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ddd;
+}

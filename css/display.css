@@ -1,0 +1,33 @@
+
+
+* { margin: 0; 
+    padding: 0; border-spacing: 0px;}
+    
+    body { font-family: "Noto Sans", sans-serif; }
+    
+    section, div { box-sizing: border-box; }
+    
+    .container { display: flex;
+    padding: 15px;
+    flex-flow: row wrap;
+    justify-content: space-between ;
+    height: 70%;
+    margin: 0px auto;
+    text-align: justify;
+    background-color: beige;}
+    
+    .item {
+    width: 50%; 
+    padding: 15%;}
+    
+    .segundo {align-self: flex-start;}
+    
+    .item img {width: 100%;
+    height: auto;
+    border-radius: 25px;
+    border: 8px solid white;
+    box-shadow: 0px 0px 4px;}
+    
+    .kanye { padding: 0px; }
+    
+    h2 { color: brown; }
